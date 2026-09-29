@@ -1,0 +1,14 @@
+# Claves y configuración local: NUNCA al repositorio
+.env
+.env.*
+!.env.example
+
+# Dependencias y compilados
+node_modules/
+dist/
+build/
+.next/
+
+# Sistema
+.DS_Store
+Thumbs.db
