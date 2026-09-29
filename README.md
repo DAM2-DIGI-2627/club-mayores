@@ -45,6 +45,11 @@ está terminada, aunque el código funcione.
 
 ¿No sabes cómo se hace algo de esto? → [GUIA_GITHUB.md](GUIA_GITHUB.md)
 
+## Materiales de clase
+
+- [Presentación del proyecto](docs/clase/Presentacion_Club_Mayores.pdf)
+- [Práctica 1 · GitHub en equipo](docs/clase/Practica01_GitHub_en_equipo.pdf)
+
 ## Hitos
 
 | Hito | Se supera cuando… |
