@@ -7,3 +7,4 @@ Añade tu fila **al final de la tabla** mediante una pull request (ver GUIA_GITH
 | Gabriel Mateos (profesor, hace de cliente) | @gabrirobleda | — | Hacer preguntas incómodas |
 | Iván Arnáez Plaza | @IvanArnPla | C · Avisos | Mentir |
 | David Sierra Hernando | @DavidSierra-HER | Plataforma | Leer libros |
+| Luis Eduardo Sendín Manchado | @luisenman | Datos personales | Perder tiempo en detalles |
