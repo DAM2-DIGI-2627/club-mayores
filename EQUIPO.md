@@ -6,4 +6,6 @@ Añade tu fila **al final de la tabla** mediante una pull request (ver GUIA_GITH
 |---|---|---|---|
 | Gabriel Mateos (profesor, hace de cliente) | @gabrirobleda | — | Hacer preguntas incómodas |
 |---|---|---|---|
+| David Sierra Hernando | @DavidSierra-HER | Plataforma | Leer libros |
+|---|---|---|---|
 | Abel Garcia | @abel-garnun | B. Datos y alojamiento | Buscar el origen del problema |
