@@ -8,3 +8,4 @@ Añade tu fila **al final de la tabla** mediante una pull request (ver GUIA_GITH
 |---|---|---|---|
 | Abel Garcia | @abel-garnun | B. Datos y alojamiento | Buscar el origen del problema |
 
+| David Sierra Hernando | @DavidSierra-HER | Plataforma | Leer libros |
