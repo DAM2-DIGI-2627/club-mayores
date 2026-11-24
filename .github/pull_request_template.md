@@ -1,15 +1,13 @@
-## Qué cambia
+## Qué es
 
-<!-- Una o dos frases. -->
+<!-- Una o dos frases: qué fichero entregas y de qué actividad. -->
 
-Closes #
+## Para qué he usado la IA
 
-## Cómo probarlo
-
-1. 
+<!-- Si no la has usado, dilo. -->
 
 ## Comprobado
 
-- [ ] Hace una sola cosa
+- [ ] Lo he leído entero y sé explicar cada párrafo
+- [ ] Tiene tres fuentes con enlace
 - [ ] No sube contraseñas, claves, `.env` ni datos reales de personas
-- [ ] Si cambia algo que ve el usuario: texto grande, botones grandes, texto junto a cada icono
