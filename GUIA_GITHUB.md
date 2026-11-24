@@ -5,6 +5,39 @@ cuando lo encuentres **añádelo a esta guía con una pull request**.
 
 ---
 
+## 0. Cómo entregamos (desde el 25/11/2026)
+
+**Por qué lo cambiamos.** Desde el 7 de octubre no había entrado nada en `main`: se
+nos iba la hora en gestionar GitHub (issues, tablero, ramas, revisiones) en lugar de
+en desarrollar Club Mayores. GitHub es la herramienta, no el trabajo. Ahora la
+gestión la hace la IA y la hora es para pensar, escribir y programar.
+
+1. **Abre tu Codespace.** Botón verde **Code** → pestaña **Codespaces** →
+   **Create codespace on main**. Otro día abres el mismo y le dices a la IA
+   «ponte al día con main».
+2. **Comprueba tu IA** (solo el primer día). Pregúntale: «¿qué normas tiene este
+   repositorio?». Tiene que contestar con las de [AGENTS.md](AGENTS.md).
+3. **Escribe tu fichero** en su ruta (la tabla está en `AGENTS.md`). Puedes usar la
+   IA para escribir, pero lo lees entero y dices para qué la has usado.
+4. **Di «entrégalo».** La IA revisa el fichero, te pregunta si lo has leído, te
+   enseña lo que va a subir, espera tu «sí», crea la rama y abre la pull request
+   con el profesor como revisor.
+5. **El profesor la lee.** Si aprueba, la fusiona: entregado. Si no, pide cambios
+   con un comentario en la pull request.
+6. **Si pide cambios**, corriges el fichero en el mismo Codespace y dices «sube los
+   cambios». La pull request es la misma.
+
+**Entregado quiere decir fusionado en `main`.** Una pull request abierta está pendiente.
+
+Si tu IA no funciona, se entrega igual desde la web: **Add file** → **Create new
+file** → escribe la ruta completa → **Commit changes…** → **Create a new branch for
+this commit and start a pull request** → **Create pull request**.
+
+Los apartados 2 y 4 explican el sistema anterior (issues, tablero y revisión entre
+compañeros). Se quedan como referencia, pero ya no trabajamos así.
+
+---
+
 ## 1. Seis palabras
 
 | Palabra | Qué es | Lo mismo, en nuestra app |
@@ -19,7 +52,7 @@ cuando lo encuentres **añádelo a esta guía con una pull request**.
 **Git** es el programa que guarda el historial. **GitHub** es la web donde vive el
 repositorio común y donde están las issues, las PR y el tablero.
 
-## 2. El ciclo de cualquier cambio
+## 2. El ciclo de cualquier cambio (sistema anterior)
 
 ```
 issue  →  rama  →  commits  →  pull request  →  revisión  →  merge  →  issue cerrada
@@ -38,7 +71,7 @@ issue  →  rama  →  commits  →  pull request  →  revisión  →  merge  �
 
 ## 3. Reglas del equipo
 
-1. Nada entra en `main` sin PR aprobada por **otra persona**. GitHub lo impide igualmente.
+1. Nada entra en `main` sin PR aprobada por **el profesor**. GitHub lo impide igualmente.
 2. Una PR = una cosa. Si tocas tres cosas, son tres PR.
 3. **Nunca** subas contraseñas, claves de API, ni ficheros `.env`. Si pasa, avisa: borrarlo en
    un commit nuevo **no basta**, sigue en el historial.
