@@ -38,12 +38,21 @@ está terminada, aunque el código funcione.
 
 ## Cómo trabajamos
 
-1. Toda tarea es una **issue** en el tablero, con una persona responsable.
-2. **Nada entra en `main` sin una pull request revisada por otra persona.**
-3. Cada decisión técnica se escribe en [`docs/decisiones/`](docs/decisiones/).
-4. **Nunca** se suben contraseñas, claves ni datos reales de personas al repositorio.
+Desde el 25/11/2026. Lo hemos cambiado porque se nos iba el tiempo en gestionar
+GitHub en lugar de en desarrollar la aplicación.
 
-¿No sabes cómo se hace algo de esto? → [GUIA_GITHUB.md](GUIA_GITHUB.md)
+1. Cada trabajo es **un fichero** en su ruta (la tabla está en [AGENTS.md](AGENTS.md)).
+2. Lo escribes en tu Codespace y le dices a tu IA **«entrégalo»**: ella crea la rama
+   y abre la pull request siguiendo [AGENTS.md](AGENTS.md).
+3. **Nada entra en `main` sin una pull request aprobada por el profesor.**
+   Entregado quiere decir fusionado en `main`.
+4. Lo que firmas es tuyo: si no sabes explicarlo, no entra.
+5. Cada decisión técnica se escribe en [`docs/decisiones/`](docs/decisiones/).
+6. **Nunca** se suben contraseñas, claves ni datos reales de personas al repositorio.
+
+El tablero, las issues y la revisión entre compañeros quedan aparcados.
+
+¿Dudas con algún paso? → [GUIA_GITHUB.md](GUIA_GITHUB.md), apartado 0.
 
 ## Materiales de clase
 
