@@ -220,9 +220,10 @@ mes) y **Copilot Pro**, entre otras cosas.
    Microsoft Authenticator…). Guarda los códigos de recuperación.
 2. **Tu nombre real** en el perfil (*github.com/settings/profile* → *Name*), igual
    que en el documento que vas a subir.
-3. **Un justificante de que estudias aquí**, con tu nombre y el curso 2026/27 a la
-   vista: el certificado de matrícula o una foto del carné de estudiante. Ten la foto
-   a mano en el móvil o en el ordenador.
+3. **Un justificante de que estudias aquí** donde se vean **tres cosas**: tu nombre
+   completo, el nombre del instituto y una fecha de este curso. Lo mejor es el
+   certificado de matrícula de 2026/27 (pídelo en secretaría); el carné de estudiante
+   vale si lleva fecha. Ten la foto a mano en el móvil o en el ordenador.
 
 **La solicitud** (mejor desde el instituto, ayuda con la ubicación):
 
