@@ -202,7 +202,44 @@ GitHub, aunque el repositorio sea de la clase. Cada mes tienes gratis:
 
 - **Un codespace por repositorio.** Otro día abres el mismo; no crees uno nuevo cada vez.
 - Antes de irte: `git push` y, en *github.com/codespaces*, **`···` → Stop codespace**.
-- Pide el **GitHub Student Pack** (*education.github.com*) con tu correo de Educacyl:
-  te da GitHub Pro y más cuota.
+- Pide el **GitHub Student Pack**: te da GitHub Pro y más cuota. Los pasos están
+  justo debajo.
 - Si no vas a usar un codespace en semanas, **bórralo**: GitHub los borra solos a los
   30 días sin uso, y con ellos lo que no hayas subido.
+
+### Pedir el Student Pack
+
+No es una cuenta nueva: se pide **sobre tu cuenta de GitHub de siempre**. Es gratis
+mientras estudies y te da **GitHub Pro** (180 h de núcleo y 20 GB de Codespaces al
+mes) y **Copilot Pro**, entre otras cosas.
+
+**Antes de empezar** (si falta algo de esto, te lo rechazan):
+
+1. **Verificación en dos pasos activada.** *github.com/settings/security* →
+   *Enable two-factor authentication*. Con una app del móvil (Google Authenticator,
+   Microsoft Authenticator…). Guarda los códigos de recuperación.
+2. **Tu nombre real** en el perfil (*github.com/settings/profile* → *Name*), igual
+   que en el documento que vas a subir.
+3. **Un justificante de que estudias aquí**, con tu nombre y el curso 2026/27 a la
+   vista: el certificado de matrícula o una foto del carné de estudiante. Ten la foto
+   a mano en el móvil o en el ordenador.
+
+**La solicitud** (mejor desde el instituto, ayuda con la ubicación):
+
+1. Entra en **education.github.com/pack** → **Get student benefits** (o *Sign up for
+   Student Developer Pack*).
+2. Elige **Student**. Si te pide un correo del centro, añade el de Educacyl
+   (`@educa.jcyl.es`) a tu cuenta y confírmalo.
+3. Escribe el nombre del centro: **IES Fray Diego Tadeo González**. Si no aparece en
+   la lista, escríbelo entero.
+4. Cuando el navegador pregunte si puede usar tu **ubicación**, di que **sí**.
+5. Si te pide prueba, haz o sube la **foto del justificante**. Que se lea bien: sin
+   reflejos y sin cortar los bordes.
+6. **Submit** y espera. Puede tardar desde unas horas hasta unos días. Te llega un
+   correo con la respuesta.
+
+**Si te lo aprueban**, los beneficios pueden tardar hasta 3 días en aparecer. Lo
+compruebas en *github.com/settings/billing*: tu plan pasa a **Pro**.
+
+**Si te lo rechazan**, el correo dice por qué (casi siempre es la foto o el nombre).
+Lo corriges y lo vuelves a pedir. Si a la segunda tampoco, díselo al profesor.
