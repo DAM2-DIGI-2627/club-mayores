@@ -223,7 +223,8 @@ mes) y **Copilot Pro**, entre otras cosas.
 3. **Un justificante de que estudias aquí** donde se vean **tres cosas**: tu nombre
    completo, el nombre del instituto y una fecha de este curso. Lo mejor es el
    certificado de matrícula de 2026/27 (pídelo en secretaría); el carné de estudiante
-   vale si lleva fecha. Ten la foto a mano en el móvil o en el ordenador.
+   vale si lleva fecha. Llévalo **en papel**: GitHub no deja adjuntar archivos, solo
+   hacer la foto en ese momento con la cámara.
 
 **La solicitud** (mejor desde el instituto, ayuda con la ubicación):
 
@@ -234,8 +235,10 @@ mes) y **Copilot Pro**, entre otras cosas.
 3. Escribe el nombre del centro: **IES Fray Diego Tadeo González**. Si no aparece en
    la lista, escríbelo entero.
 4. Cuando el navegador pregunte si puede usar tu **ubicación**, di que **sí**.
-5. Si te pide prueba, haz o sube la **foto del justificante**. Que se lea bien: sin
-   reflejos y sin cortar los bordes.
+5. Se abre la **cámara** para hacer la foto del justificante (no hay botón para
+   subir un archivo). Mejor hazlo **desde el móvil**, que tiene mejor cámara que la
+   del portátil: papel sobre la mesa, con buena luz, sin reflejos, entero en la foto
+   y con el texto legible. Si sale borrosa, repítela antes de enviar.
 6. **Submit** y espera. Puede tardar desde unas horas hasta unos días. Te llega un
    correo con la respuesta.
 
