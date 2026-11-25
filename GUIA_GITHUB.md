@@ -29,6 +29,9 @@ gestión la hace la IA y la hora es para pensar, escribir y programar.
 
 **Entregado quiere decir fusionado en `main`.** Una pull request abierta está pendiente.
 
+Si GitHub te dice que se te ha acabado Codespaces (*You are out of monthly free
+usage…*), mira el [apartado 7](#7-se-te-ha-acabado-codespaces).
+
 Si tu IA no funciona, se entrega igual desde la web: **Add file** → **Create new
 file** → escribe la ruta completa → **Commit changes…** → **Create a new branch for
 this commit and start a pull request** → **Create pull request**.
@@ -157,3 +160,49 @@ Cuando el equipo decide algo que cuesta cambiar después (la plataforma, dónde 
 datos, cómo se entra sin contraseña…), se escribe en `docs/decisiones/`, copiando
 `0000-plantilla.md`. Numeración correlativa: `0001-plataforma.md`, `0002-datos.md`…
 Se sube con una PR como cualquier otro cambio: así la decisión también se revisa.
+
+---
+
+## 7. Se te ha acabado Codespaces
+
+Si al abrir tu Codespace sale *«You are out of monthly free usage or have exceeded
+your budget for Codespaces»*, no has tocado nada mal: se ha gastado tu cuota gratuita.
+
+**Qué pasa.** Codespaces no lo paga el instituto: lo paga **tu cuenta personal** de
+GitHub, aunque el repositorio sea de la clase. Cada mes tienes gratis:
+
+| Cuenta | Tiempo de máquina | Almacenamiento |
+|---|---|---|
+| GitHub Free | 120 h de núcleo (con la máquina de 2 núcleos, **60 h reales**) | 15 GB·mes |
+| GitHub Pro (gratis con el *Student Pack*) | 180 h de núcleo (90 h reales) | 20 GB·mes |
+
+- Cuentan **todos** tus codespaces, de cualquier repositorio, también los que ya
+  hayas borrado este mes.
+- El tiempo solo corre con el codespace **encendido**; el almacenamiento corre
+  mientras el codespace **exista**, aunque esté parado.
+- Los GB que salen en la tarjeta del codespace (10 GB o más) **no** son lo que te
+  cobran: casi todo es la imagen base de GitHub, que no cuenta.
+- La cuota vuelve el **día 1 de cada mes**.
+
+**Qué hacer.**
+
+1. **No borres nada todavía.** Si en la lista de codespaces tu rama sale con
+   asterisco (`equipo-lucia*`), tiene cambios sin subir. En los **`···`** del
+   codespace → **Export changes to a branch** → **Create branch**. Funciona aunque no
+   te quede cuota. Se crea una rama `codespace-…` con tu trabajo.
+2. **Mira en qué se ha ido.** *github.com/settings/billing* → uso de Codespaces, por
+   día y por repositorio.
+3. **Borra los codespaces que no uses** en *github.com/codespaces*. Lo exportado o
+   subido con `git push` ya está a salvo en GitHub.
+4. **Hasta el día 1**, entrega desde la web (final del [apartado 0](#0-cómo-entregamos-desde-el-25112026))
+   o edita con **github.dev**: en el repositorio, pulsa la tecla `.` (punto). Es un
+   VS Code en el navegador que no gasta cuota, aunque no tiene terminal ni IA.
+
+**Para que no te pase.**
+
+- **Un codespace por repositorio.** Otro día abres el mismo; no crees uno nuevo cada vez.
+- Antes de irte: `git push` y, en *github.com/codespaces*, **`···` → Stop codespace**.
+- Pide el **GitHub Student Pack** (*education.github.com*) con tu correo de Educacyl:
+  te da GitHub Pro y más cuota.
+- Si no vas a usar un codespace en semanas, **bórralo**: GitHub los borra solos a los
+  30 días sin uso, y con ellos lo que no hayas subido.
